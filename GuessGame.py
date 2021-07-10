@@ -3,6 +3,7 @@ print(':Welcome to the Guess :) game:')
 print('You have 10 choices left')
 print('The first world is: '+'*'*10) 
 num = 10
+
 def Option1(ans):
     print('Hint is : I am a favourite food for a Lion or leopard, also I remain over the top of your letter') 
     print('Your options are: \t 1.A \t 2.B \t 3.D')
